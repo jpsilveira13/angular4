@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8c60bd-9f93-49fc-ad1a-d49216e2b365" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts" afterDir="false" />
@@ -16,13 +15,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="data-binding.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="214">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
               <folding>
-                <marker date="1523279581871" expanded="true" signature="249:340" ph="{...}" />
+                <marker date="1523281987902" expanded="true" signature="249:340" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -31,13 +39,13 @@
       <file leaf-file-name="data-binding.component.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="449">
-              <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+            <state relative-caret-position="432">
+              <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meu-form.component.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="meu-form.component.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -67,6 +75,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="input-property.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="input-property.component.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="meu-form.module.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.module.ts">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,38 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data-binding.component.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="3" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data-binding/src/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="210" selection-start-line="7" selection-start-column="210" selection-end-line="7" selection-end-column="210" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data-binding/src/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".angular-cli.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data-binding/.angular-cli.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -156,11 +155,13 @@
         <option value="$PROJECT_DIR$/data-binding/src/styles.css" />
         <option value="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.css" />
         <option value="$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.component.html" />
-        <option value="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html" />
         <option value="$PROJECT_DIR$/data-binding/src/app/app.module.ts" />
         <option value="$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.module.ts" />
-        <option value="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts" />
         <option value="$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.component.ts" />
+        <option value="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts" />
+        <option value="$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.html" />
+        <option value="$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html" />
+        <option value="$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.ts" />
       </list>
     </option>
   </component>
@@ -227,7 +228,7 @@
               <item name="data-binding" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="meu-form" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="input-property" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -267,12 +268,12 @@
       <workItem from="1522793734165" duration="8819000" />
       <workItem from="1522882926378" duration="7111000" />
       <workItem from="1523277299270" duration="83000" />
-      <workItem from="1523277475038" duration="2103000" />
+      <workItem from="1523277475038" duration="3882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18385000" />
+    <option name="totallyTimeSpent" value="20164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -313,26 +314,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="62" column="35" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
-            <marker date="1523279581871" expanded="true" signature="249:340" ph="{...}" />
+            <marker date="1523281987902" expanded="true" signature="249:340" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -532,13 +519,6 @@
     <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.component.ts">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data-binding/node_modules/engine.io-client/node_modules/debug/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -599,20 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="449">
-          <caret line="71" column="14" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.module.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -623,20 +589,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1523279581871" expanded="true" signature="249:340" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data-binding/src/app/meu-form/meu-form.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/data-binding/data-binding.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <folding>
+            <marker date="1523281987902" expanded="true" signature="249:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-binding/src/app/input-property/input-property.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
         </state>
       </provider>
     </entry>
