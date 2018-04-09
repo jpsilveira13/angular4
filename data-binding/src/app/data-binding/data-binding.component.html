@@ -1,4 +1,4 @@
-<section>
+<!--<section>
   <!--
   <article>
     <h3> Interpolation / Interpolação</h3>
@@ -14,35 +14,35 @@
     <img [src]="urlImagem" />
     <img bind-src="urlImagem" />
   </article> -->
-  <!--
-    <article>
-      <h3>Class e Style binding</h3>
-      Selecione uma classe:
-      <select #classe (change)="0">
-        <option value="alert-success">Sucesso</option>
-        <option value="alert-danger">Danger</option>
-        <option value="alert-info">Info</option>
-        <option value="alert-warning">Warning</option>
+<!--
+  <article>
+    <h3>Class e Style binding</h3>
+    Selecione uma classe:
+    <select #classe (change)="0">
+      <option value="alert-success">Sucesso</option>
+      <option value="alert-danger">Danger</option>
+      <option value="alert-info">Info</option>
+      <option value="alert-warning">Warning</option>
 
-      </select>
-      <br />
-      <br />
+    </select>
+    <br />
+    <br />
 
-      <div class="alert {{classe.value }}" role="alert">
-        Texto colorido de acordo com o box.
-      </div>
-      <div class="alert " role="alert"
-           [class.alert-success]="classe.value =='alert-success'">Sucesso</div>
-      <div class="alert " role="alert"
-           [class.alert-info]="classe.value =='alert-info'">Info</div>
-      <div class="alert " role="alert"
-           [class.alert-warning]="classe.value =='alert-warning'">Alerta</div>
-      <div class="alert " role="alert"
-           [class.alert-danger]="classe.value =='alert-danger'">Erro</div>
-      <div class="alert alert-danger " role="alert"
-      [style.display]="classe.value == 'alert-danger' ? 'block' : 'none'">Esse texto só aparece em caso de erro.</div>
-    </article> -->
-
+    <div class="alert {{classe.value }}" role="alert">
+      Texto colorido de acordo com o box.
+    </div>
+    <div class="alert " role="alert"
+         [class.alert-success]="classe.value =='alert-success'">Sucesso</div>
+    <div class="alert " role="alert"
+         [class.alert-info]="classe.value =='alert-info'">Info</div>
+    <div class="alert " role="alert"
+         [class.alert-warning]="classe.value =='alert-warning'">Alerta</div>
+    <div class="alert " role="alert"
+         [class.alert-danger]="classe.value =='alert-danger'">Erro</div>
+    <div class="alert alert-danger " role="alert"
+    [style.display]="classe.value == 'alert-danger' ? 'block' : 'none'">Esse texto só aparece em caso de erro.</div>
+  </article> -->
+<!--
   <article class="event-binding">
     <h3>Event binding</h3>
     <div>
@@ -65,4 +65,8 @@
       >Passe o mouse pra mim</span>
     </div>
   </article>
-</section>
+
+
+
+</section>  -->
+<app-meu-form></app-meu-form>

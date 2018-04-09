@@ -5,12 +5,12 @@ import { Component, OnInit } from '@angular/core';
     templateUrl: './data-binding.component.html',
     //styleUrls: ['./data-binding.component.css']
     styles: [
-        `
+            `
             .highlight{
                 background-color: yellow;
                 font-weight:bold;
             }
-      `
+        `
     ]
 })
 export class DataBindingComponent implements OnInit {
@@ -20,6 +20,8 @@ export class DataBindingComponent implements OnInit {
     urlImagem: string = 'http://lorempixel.com/400/200/nature/';
     valorAtual: string = '';
     valorSalvo: string = '';
+    nome: string = 'ABC';
+
     isMouseOver: boolean = false;
     getValor(){
         return 1;
