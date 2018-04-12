@@ -1,4 +1,4 @@
-import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
+import {Component, ElementRef, EventEmitter, Input, OnInit, Output, ViewChild} from '@angular/core';
 
 @Component({
     selector: 'contador',
@@ -8,8 +8,11 @@ import {Component, EventEmitter, Input, OnInit, Output} from '@angular/core';
 export class OutputPropertyComponent implements OnInit {
     @Input() valor: number = 0;
     @Output() mudouValor = new EventEmitter();
+
+    @ViewChild('campoInput') campoValorInput: ElementRef;
     incremeta(){
-        this.valor++;
+        console.log();
+        this.campoValorInput.nativeElement.value++;
         this.mudouValor.emit({novoValor: this.valor})
     }
     decrementa(){
@@ -17,7 +20,7 @@ export class OutputPropertyComponent implements OnInit {
             alert('Limite mínimo é 0');
             this.mudouValor.emit({novoValor: this.valor})
         } else {
-            this.valor--;
+            this.campoValorInput.nativeElement.value--;
         }
 
     }
